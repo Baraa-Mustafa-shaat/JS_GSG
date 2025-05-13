@@ -1,0 +1,27 @@
+body {
+  min-width: 300px;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+button {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 5px;
+}
+ul
+ {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: rgb(157, 10, 10);
+  text-decoration: none;
+}
